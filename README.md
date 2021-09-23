@@ -7,4 +7,3 @@ Repositório de cadernos produzidos durante o curso de mineração de dados da U
 * Técnicas para tratamento de dados nulos
 * Técnicas de redução de dimensionalidade
 * Técnicas de machine learning em aprendizado supervisionado e não supervisionado usando scikit-learn
-* 
